@@ -1,0 +1,23 @@
+{
+  "name": "sass-utils",
+  "version": "1.0.0",
+  "description": "sass common used mixins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poilkjmn22/sass-common-mixins.git"
+  },
+  "keywords": [
+    "sass",
+    "mixin"
+  ],
+  "author": "fangqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poilkjmn22/sass-common-mixins/issues"
+  },
+  "homepage": "https://github.com/poilkjmn22/sass-common-mixins#readme"
+}
