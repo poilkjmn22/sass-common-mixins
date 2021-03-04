@@ -1,5 +1,5 @@
 {
-  "name": "sass-utils",
+  "name": "sass-common-mixins-fq",
   "version": "1.0.0",
   "description": "sass common used mixins",
   "main": "index.js",
